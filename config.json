@@ -1,0 +1,20 @@
+{
+  "users": {
+    "998771529519": {
+      "sudoList": [
+        "50933452225@s.whatsapp.net",
+        "50935881708@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/DigiX.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
