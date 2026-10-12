@@ -74,7 +74,7 @@ async function connectToWhatsapp(handleMessage) {
 ╔══════════════════╗
       *❚✰𝐀𝐋𝐀●𝐒𝐊𝐀✰—͟͟͞͞� Bot Connected Successfully* 🚀
 ╠══════════════════╣
-> "Always Forward. Digital Crew, one of the best."
+> "Always Forward. ❚✰𝐀𝐋𝐀●𝐒𝐊𝐀✰—͟͟͞͞�, one of the best."
 ╚══════════════════╝
 
 *Digital Crew 243*
@@ -111,8 +111,8 @@ async function connectToWhatsapp(handleMessage) {
                 }
 
                 console.log(`🔄 Requesting pairing code for ${number}`);
-                const code = await sock.requestPairingCode(number, 'ALASKA);
-                console.log('📲 Pairing Code:', code);
+                const code = await sock.requestPairingCode(number, 'ALASKA07);
+                console.log('📲 Pairing Code:', ALASKA07);
                 console.log('👉 Enter this code on your WhatsApp app to pair.');
 
                 setTimeout(() => {
@@ -132,7 +132,7 @@ async function connectToWhatsapp(handleMessage) {
                     configmanager.save();
                 }, 2000);
             } catch (e) {
-                console.error('❌ Error while requesting pairing code:', e);
+                console.error('❌ Error while requesting pairing code:',ALASKA07e);
             }
         }
     }, 5000);
